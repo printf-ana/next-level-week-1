@@ -8,3 +8,5 @@ A aplicação construída durante o NLW é uma aplicação real, útil, pensada 
 No dia 2, (02/06/2020) foram atualizados o HTML e CSS da primeira página, criados os códigos da segunda, e adicionado o código JS da segunda página referente principalmente a escolha de estados e cidades de acordo com os oferecidos pelo IBGE.
 
 No dia 3, (03/06/2020) foram atualizados o HTML e CSS da segunda página, criada a terceira página, adicionados seus respectivos CSS e JS, e adicionado alguns extras.
+
+No dia 4, (04/06/2020) foi finalizada a parte front do código, e foi iniciado o back, onde houve a instalação do Node.js, onfiguração e etc... Criação de servidor, colocação dele no ar, reestruturação das pastas e adequação de todos os códigos de acordo com o servidor.
